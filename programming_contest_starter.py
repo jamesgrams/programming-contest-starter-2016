@@ -84,7 +84,6 @@ root_a_option_b.add_sub_event("A", root)
 root.add_sub_event("B", root_option_b)
 root_option_b.add_sub_event("A", root)
 
-print
 root.display()
 
 		
